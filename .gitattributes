@@ -1,1 +1,13 @@
 * text=auto !eol
+/ChangeLog.markdown -text
+/MIT-LICENSE -text
+/README.markdown -text
+/Rakefile -text
+/VERSION.yml -text
+bin/svn2git -text
+lib/svn2git.rb -text
+lib/svn2git/migration.rb -text
+/svn2git.gemspec -text
+test/commands_test.rb -text
+test/escape_quotes_test.rb -text
+test/test_helper.rb -text
